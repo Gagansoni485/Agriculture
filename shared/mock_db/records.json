@@ -1,0 +1,43 @@
+[
+  {
+    "khasra_no": "101/1",
+    "village": "Abhanpur",
+    "district": "Raipur",
+    "owner_name": "Suresh Verma",
+    "area_hectares": 1.5,
+    "actual_irrigation": "Irrigated",
+    "bank_recorded_irrigation": "Irrigated",
+    "crop": "Paddy",
+    "quintals_sold": 30,
+    "msp_received": 93000,
+    "kcc_loan_amount": 80000,
+    "interest_charged_pct": 4.0,
+    "repaid_on_time": true,
+    "pmfby_claim_received": 0,
+    "crop_loss_pct": 0,
+    "active_mortgages": [
+      { "bank": "State Bank of India", "amount": 80000, "status": "Active" }
+    ]
+  },
+  {
+    "khasra_no": "102/4",
+    "village": "Kurud",
+    "district": "Dhamtari",
+    "owner_name": "Rameshwar Sahu",
+    "area_hectares": 2.0,
+    "actual_irrigation": "Irrigated",
+    "bank_recorded_irrigation": "Unirrigated",
+    "crop": "Paddy",
+    "quintals_sold": 40,
+    "msp_received": 124000,
+    "kcc_loan_amount": 100000,
+    "interest_charged_pct": 7.0,
+    "repaid_on_time": true,
+    "pmfby_claim_received": 25000,
+    "crop_loss_pct": 50,
+    "active_mortgages": [
+      { "bank": "Chhattisgarh Rajya Gramin Bank", "amount": 100000, "status": "Active" },
+      { "bank": "District Cooperative Bank", "amount": 120000, "status": "Active" }
+    ]
+  }
+]
